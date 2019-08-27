@@ -8,6 +8,7 @@ public class KitchensinkApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KitchensinkApplication.class, args);
+        System.out.println("App running.");
     }
 
 }
